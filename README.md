@@ -21,6 +21,10 @@ Software: Python 3.7.6 and Visual Studio Code 1.68.1
   * Charles Casper Stockham
   * Diana DeGette
   * Raymon Anthony Doane
+ * The candidate results were: 
+  * Charles Casper Stockham recieved 23.0% of the vote and 85,213 of votes
+  * Diana DeGette recieved 73.8% of the vote and 272,892 of votes
+  * Raymon Anthony Doane recieved 3.1% of the vote and 11,606 of votes
 
 ## Challenge Overview
 
