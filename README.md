@@ -15,6 +15,7 @@ Data Source: election_results.csv
 Software: Python 3.7.6 and Visual Studio Code 1.68.1
 
 ## Summary
+*There were 369,711 votes cast in the local congressional election
 
 ## Challenge Overview
 
